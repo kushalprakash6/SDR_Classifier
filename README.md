@@ -1,4 +1,4 @@
-###SDR_Classifier
+### SDR_Classifier
 
 Team entropy working of SDR classifier for ML
 
@@ -6,7 +6,7 @@ This project is done as part of Software Engineering course.
 
 The goal is to implement SDR classifier for ML usecase in C# language
 
-###Milestones
+### Milestones
 The table below shows milestones, which we have to achieve. There maybe some changes, we will have to update it accordingly.
 
 Task no.	  Task description	                                                date	              remarks
@@ -16,8 +16,8 @@ Task no.	  Task description	                                                date
 
 
 
-###Tasks distribution
+### Tasks distribution
 
 
 
-###Ideas about Report above tasks
+### Ideas about Report above tasks
