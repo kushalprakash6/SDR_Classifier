@@ -1,0 +1,9 @@
+### Current observation (KP)
+
+https://nupic.docs.numenta.org/stable/api/algorithms/classifiers.html#module-nupic.algorithms.sdr_classifier
+
+nupic referred in the project ideas link is in python language. May be we have to port it over to C# language.
+
+So we need to check if we have to fork it, or create an own branch
+
+We also need to check on how to collaborate and where to keep the project.
