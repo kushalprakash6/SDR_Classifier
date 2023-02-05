@@ -7,6 +7,6 @@ The goal is to implement SDR classifier for ML usecase in C# language
 
 
 Team members
-Kushal Prakash
-Padmini Manjunatha
-Karthik Kothamangala Sreenath
+1. Kushal Prakash
+2. Padmini Manjunatha
+3. Karthik Kothamangala Sreenath
